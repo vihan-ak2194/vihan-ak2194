@@ -1,180 +1,115 @@
-````markdown
-<!-
-- ========================================================= -->
-<!--                  DEVELOPMENT DASHBOARD                    -->
-<!-- ========================================================= -->
+<!-- ===================== 📊 DEVELOPER DASHBOARD ===================== -->
 
-<h1 align="center">
-📊 Development Dashboard
-</h1>
+<div align="center">
 
-<p align="center">
-<i>Tracking progress, celebrating consistency, and documenting my journey as a developer.</i>
-</p>
+# 📊 Developer Analytics Dashboard
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+### *A visual snapshot of my coding journey, growth, and continuous learning.*
 
-<br>
+</div>
+
+---
 
 <table>
 <tr>
 <td width="50%">
 
-## 📈 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=vihan-ak2194&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vihan-ak2194&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </td>
 
 <td width="50%">
 
-## 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihan-ak2194&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihan-ak2194&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>
 </table>
 
----
-
-## 🔥 Consistency Tracker
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=vihan-ak2194&theme=github-dark-blue&hide_border=true"/>
-
+<img width="95%" src="https://streak-stats.demolab.com?user=vihan-ak2194&theme=tokyonight&hide_border=true"/>
 </p>
 
-> **Consistency beats intensity.** Every commit is another step toward becoming a better developer.
-
----
-
-## 📈 Coding Activity
-
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vihan-ak2194&theme=github-compact"/>
-
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vihan-ak2194&theme=tokyo-night"/>
 </p>
 
----
+<p align="center">
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vihan-ak2194&theme=tokyonight"/>
+</p>
 
-## 🏆 Milestones
+<table>
+<tr>
+
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vihan-ak2194&theme=tokyonight"/>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vihan-ak2194&theme=tokyonight"/>
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vihan-ak2194&theme=tokyonight"/>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vihan-ak2194&theme=tokyonight&utcOffset=5.5"/>
+
+</td>
+
+</tr>
+</table>
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vihan-ak2194&theme=algolia&no-frame=true&row=2&column=4"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=vihan-ak2194&theme=algolia&row=2&column=4&no-frame=true"/>
 </p>
 
 ---
 
 # 🚀 Learning Journey
 
-> ### 🌱 Every expert started as a beginner.
->
-> I'm currently building a strong foundation in programming through consistent learning, hands-on practice, and real-world projects.
+> **Every line of code is another step toward becoming the developer I aspire to be.**
 
-### 📚 Current Focus
-
-```text
-🐍 Python Programming
-████████████░░░░░░░░
-
-⚙️ Git & GitHub
-████████░░░░░░░░░░░
-
-🌐 HTML & CSS
-███████░░░░░░░░░░░░
-
-🧩 Problem Solving
-█████████░░░░░░░░░░
-
-🤖 Artificial Intelligence
-██░░░░░░░░░░░░░░░░░
-```
+| 🎯 Current Focus | 📈 Progress |
+|-----------------|------------:|
+| 🐍 Python Programming | ████████████░░ 80% |
+| ⚙️ Git & GitHub | █████████░░░░ 60% |
+| 🌐 HTML & CSS | ████████░░░░ 55% |
+| 🧩 Problem Solving | ██████████░░ 70% |
+| 🤖 Artificial Intelligence | ██░░░░░░░░░░ 15% |
 
 ---
 
-## 🧠 What I'm Learning
+## 🏗️ Projects in Progress
 
-✨ Writing clean and readable Python code
-
-✨ Building practical beginner projects
-
-✨ Understanding Git workflows
-
-✨ Improving debugging skills
-
-✨ Developing problem-solving techniques
-
-✨ Exploring software development best practices
+- 🐍 Python Calculator
+- 🎮 Number Guessing Game
+- 📋 To-Do App
+- 🌦️ Weather App
+- 🤖 Python Automation Scripts
+- 🌐 Personal Portfolio Website
 
 ---
 
-# 📂 Featured Projects
+## 🎯 2026 Roadmap
 
-> *Every project is another milestone in my learning journey.*
-
-| 🚀 Project | 📝 Description | 📌 Status |
-|------------|---------------|-----------|
-| 🐍 Python Calculator | Basic calculator using Python | 🟢 Completed |
-| 🎲 Number Guessing Game | Fun Python guessing game | 🟢 Completed |
-| 📋 To-Do App | Beginner productivity project | 🟡 In Progress |
-| 🌦️ Weather App | API-based weather application | 🔵 Planned |
-| 🤖 Automation Scripts | Small Python automation tools | 🔵 Planned |
-| 🌐 Portfolio Website | Personal developer website | 🔵 Planned |
-
----
-
-# 🎯 2026 Roadmap
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🐍 Master Python
-
-██████████░░░░░░░░░░░░
-
-⚙️ Learn Git & GitHub
-
-█████████░░░░░░░░░░░░░
-
-🌐 Web Development
-
-██████░░░░░░░░░░░░░░░░
-
-📦 Build 20+ Projects
-
-████░░░░░░░░░░░░░░░░░░
-
-🤖 Artificial Intelligence
-
-██░░░░░░░░░░░░░░░░░░░░
-
-🚀 Open Source Contribution
-
-█░░░░░░░░░░░░░░░░░░░░░
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## 💡 Developer Mindset
-
-> I don't measure success by how much I already know.
->
-> I measure it by how consistently I keep learning.
->
-> Every commit, every bug fixed, and every project completed brings me one step closer to becoming the developer I aspire to be.
-
----
-
-<div align="center">
-
-### ⭐ "Code. Learn. Improve. Repeat."
-
-</div>
-````
+- ✅ Master Python Fundamentals
+- 🚀 Build 20+ Real Projects
+- 🌍 Contribute to Open Source
+- 📚 Learn Data Structures & Algorithms
+- 🤖 Explore AI & Machine Learning
+- 💼 Build a Professional Developer Portfolio
