@@ -1,145 +1,180 @@
 ````markdown
-<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
-<!--              🚀 DEVELOPMENT DASHBOARD              -->
-<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
+<!-
+- ========================================================= -->
+<!--                  DEVELOPMENT DASHBOARD                    -->
+<!-- ========================================================= -->
 
-<div align="center">
+<h1 align="center">
+📊 Development Dashboard
+</h1>
 
-# 🚀 Development Dashboard
+<p align="center">
+<i>Tracking progress, celebrating consistency, and documenting my journey as a developer.</i>
+</p>
 
-### *Building. Learning. Growing.*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
-
-*A snapshot of my coding journey, learning progress, and GitHub activity.*
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <br>
 
 <table>
 <tr>
+<td width="50%">
 
-<td width="50%" align="center">
+## 📈 GitHub Statistics
 
-### 📊 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=vihan-ak2194&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td width="50%" align="center">
-
-### 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihan-ak2194&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vihan-ak2194&show_icons=true&theme=github_dark&hide_border=true"/>
 
 </td>
 
+<td width="50%">
+
+## 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihan-ak2194&layout=compact&theme=github_dark&hide_border=true"/>
+
+</td>
 </tr>
 </table>
 
+---
+
+## 🔥 Consistency Tracker
+
 <p align="center">
 
-<img width="96%" src="https://streak-stats.demolab.com?user=vihan-ak2194&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=vihan-ak2194&theme=github-dark-blue&hide_border=true"/>
 
 </p>
+
+> **Consistency beats intensity.** Every commit is another step toward becoming a better developer.
 
 ---
 
 ## 📈 Coding Activity
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vihan-ak2194&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vihan-ak2194&theme=github-compact"/>
 
-</div>
-
----
-
-## 🏆 GitHub Highlights
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vihan-ak2194&theme=algolia&no-frame=true&column=4"/>
-
-</div>
+</p>
 
 ---
 
-# 🌱 Learning Journey
+## 🏆 Milestones
 
-> **"Every expert was once a beginner. Every commit is one step forward."**
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vihan-ak2194&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🚀 Learning Journey
+
+> ### 🌱 Every expert started as a beginner.
+>
+> I'm currently building a strong foundation in programming through consistent learning, hands-on practice, and real-world projects.
 
 ### 📚 Current Focus
 
 ```text
-🐍 Python           ████████████░░░
-⚙️ Git & GitHub     █████████░░░░░░
-🌐 HTML & CSS       ████████░░░░░░░
-🧠 Problem Solving  ██████████░░░░░
-🤖 Artificial AI    ███░░░░░░░░░░░░
+🐍 Python Programming
+████████████░░░░░░░░
+
+⚙️ Git & GitHub
+████████░░░░░░░░░░░
+
+🌐 HTML & CSS
+███████░░░░░░░░░░░░
+
+🧩 Problem Solving
+█████████░░░░░░░░░░
+
+🤖 Artificial Intelligence
+██░░░░░░░░░░░░░░░░░
 ```
 
 ---
 
-# 🚀 Projects Under Construction
+## 🧠 What I'm Learning
 
-| 💡 Project | Status |
-|------------|--------|
-| 🐍 Python Calculator | 🟢 Completed |
-| 🎲 Number Guessing Game | 🟢 Completed |
-| 📋 To-Do App | 🟡 Building |
-| 🌦️ Weather App | 🔵 Coming Soon |
-| 🤖 Automation Scripts | 🔵 Planned |
+✨ Writing clean and readable Python code
+
+✨ Building practical beginner projects
+
+✨ Understanding Git workflows
+
+✨ Improving debugging skills
+
+✨ Developing problem-solving techniques
+
+✨ Exploring software development best practices
 
 ---
 
-# 🎯 2026 Mission
+# 📂 Featured Projects
 
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+> *Every project is another milestone in my learning journey.*
 
-🐍 Become Confident in Python
+| 🚀 Project | 📝 Description | 📌 Status |
+|------------|---------------|-----------|
+| 🐍 Python Calculator | Basic calculator using Python | 🟢 Completed |
+| 🎲 Number Guessing Game | Fun Python guessing game | 🟢 Completed |
+| 📋 To-Do App | Beginner productivity project | 🟡 In Progress |
+| 🌦️ Weather App | API-based weather application | 🔵 Planned |
+| 🤖 Automation Scripts | Small Python automation tools | 🔵 Planned |
+| 🌐 Portfolio Website | Personal developer website | 🔵 Planned |
 
-██████████████░░░░░░
+---
 
-🚀 Build Real Projects
+# 🎯 2026 Roadmap
 
-███████████░░░░░░░░░
-
-🌍 Contribute to Open Source
-
-██████░░░░░░░░░░░░░░
-
-🤖 Learn AI & Machine Learning
-
-████░░░░░░░░░░░░░░░░
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🐍 Master Python
+
+██████████░░░░░░░░░░░░
+
+⚙️ Learn Git & GitHub
+
+█████████░░░░░░░░░░░░░
+
+🌐 Web Development
+
+██████░░░░░░░░░░░░░░░░
+
+📦 Build 20+ Projects
+
+████░░░░░░░░░░░░░░░░░░
+
+🤖 Artificial Intelligence
+
+██░░░░░░░░░░░░░░░░░░░░
+
+🚀 Open Source Contribution
+
+█░░░░░░░░░░░░░░░░░░░░░
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## 💡 Developer Mindset
+
+> I don't measure success by how much I already know.
+>
+> I measure it by how consistently I keep learning.
+>
+> Every commit, every bug fixed, and every project completed brings me one step closer to becoming the developer I aspire to be.
 
 ---
 
 <div align="center">
 
-## 💡 My Developer Mindset
-
-> *"Success isn't measured by what I know today, but by my willingness to keep learning tomorrow."*
-
-**Code with Curiosity. Build with Purpose. Learn without Limits.**
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for Visiting
-
-*One project. One commit. One improvement at a time.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:3B82F6,100:06B6D4"/>
+### ⭐ "Code. Learn. Improve. Repeat."
 
 </div>
 ````
