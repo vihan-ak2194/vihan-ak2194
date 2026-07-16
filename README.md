@@ -1,99 +1,119 @@
 <div align="center">
 
-# 👋 Hi, I'm Vihaan
+# 👋 Hey, I'm Vihaan!
 
-### 🐍 Python Learner | 💻 Future Software Developer | 🚀 Open Source Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🐍+Python+Learner;💻+Future+Software+Engineer;🚀+Building+Amazing+Projects;✨+Never+Stop+Learning!" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Python+Developer+in+Progress;Building+Amazing+Projects;Always+Learning+Something+New!" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vihan-ak2194&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
 ```python
-class Developer:
-
+class Vihaan:
     def __init__(self):
         self.name = "Vihaan"
-        self.role = "Python Learner"
-        self.language = "Python 🐍"
-        self.goal = "Become a Software Engineer"
+        self.learning = "Python 🐍"
+        self.goal = "Become a Professional Software Developer 🚀"
+        self.hobbies = [
+            "Coding 💻",
+            "Learning 📚",
+            "Building Projects 🚀",
+            "Exploring Technology 🌎"
+        ]
 
-    def hello(self):
-        return "Thanks for visiting my profile!"
+me = Vihaan()
 ```
 
 ---
 
-# 💻 Skills
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,markdown,linux"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
+# 🚀 Currently Learning
 
 - 🐍 Python
-- 📦 Git & GitHub
+- 💻 Programming Fundamentals
 - 🌐 HTML & CSS
-- ⚡ Problem Solving
-- 💻 Software Development
+- ⚡ Git & GitHub
+- 🤖 Artificial Intelligence
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Learn Python
-- ✅ Build 25+ Projects
-- ✅ Learn Django
-- ✅ Master Git & GitHub
-- ✅ Contribute to Open Source
-
----
-
-# 🗂 Featured Projects
-
-| Project | Status |
-|---------|--------|
-| 🧮 Calculator | ✅ |
-| 🎮 Guess Game | ✅ |
-| 🔐 Password Generator | 🚧 |
-| 📝 To-Do App | 🚧 |
-| 🌦 Weather App | 🚧 |
-
----
-
-# ⚡ Fun Facts
-
-- 💡 I love learning new technologies.
-- 🧩 I enjoy solving coding challenges.
-- 🚀 I build projects to improve my skills.
-- 🌱 Every day is a new opportunity to learn.
-
----
-
-# 📫 Connect With Me
+# 🛠 Tech Stack
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,vscode,git,github,html,css&theme=dark"/>
 
 </p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vihan-ak2194&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihan-ak2194&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=vihan-ak2194&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vihan-ak2194&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vihan-ak2194&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 My Goals
+
+- ✅ Master Python
+- 🚀 Build Real-World Projects
+- 🤝 Contribute to Open Source
+- 💡 Learn AI & Machine Learning
+- 🌟 Become a Full-Stack Developer
+
+---
+
+# 💻 Quote
+
+> **"The best way to predict the future is to create it."**
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for Visiting!
+### ⭐ Thanks for visiting my profile!
 
-*"Code • Learn • Build • Repeat"* 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Happy+Coding!+💙;Keep+Learning!+🚀;See+You+Again!+👋" />
 
 </div>
