@@ -1,115 +1,63 @@
-<!-- ===================== 📊 DEVELOPER DASHBOARD ===================== -->
+# 👋 Hey, I'm Vihaan!
 
-<div align="center">
+### 💻 Aspiring Developer | HTML Beginner | Tech Enthusiast
 
-# 📊 Developer Analytics Dashboard
+Welcome to my GitHub profile! 🚀
 
-### *A visual snapshot of my coding journey, growth, and continuous learning.*
+I'm a beginner in the world of coding, currently learning **HTML** and exploring the exciting world of web development.
 
-</div>
-
----
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vihan-ak2194&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihan-ak2194&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-<img width="95%" src="https://streak-stats.demolab.com?user=vihan-ak2194&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vihan-ak2194&theme=tokyo-night"/>
-</p>
-
-<p align="center">
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vihan-ak2194&theme=tokyonight"/>
-</p>
-
-<table>
-<tr>
-
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vihan-ak2194&theme=tokyonight"/>
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vihan-ak2194&theme=tokyonight"/>
-
-</td>
-
-</tr>
-</table>
-
-<table>
-<tr>
-
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vihan-ak2194&theme=tokyonight"/>
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vihan-ak2194&theme=tokyonight&utcOffset=5.5"/>
-
-</td>
-
-</tr>
-</table>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vihan-ak2194&theme=algolia&row=2&column=4&no-frame=true"/>
-</p>
+I enjoy learning new technologies, experimenting with code, and turning ideas into reality. My goal is to continuously improve my skills and become a better developer every day.
 
 ---
 
-# 🚀 Learning Journey
+### 🧑‍💻 About Me
 
-> **Every line of code is another step toward becoming the developer I aspire to be.**
+- 🌱 Currently learning **HTML**
+- 💡 Interested in Web Development & Programming
+- 🎯 Working towards becoming a skilled developer
+- 🚀 Building my coding journey one step at a time
+- 📚 Always curious to learn something new
 
-| 🎯 Current Focus | 📈 Progress |
-|-----------------|------------:|
-| 🐍 Python Programming | ████████████░░ 80% |
-| ⚙️ Git & GitHub | █████████░░░░ 60% |
-| 🌐 HTML & CSS | ████████░░░░ 55% |
-| 🧩 Problem Solving | ██████████░░ 70% |
-| 🤖 Artificial Intelligence | ██░░░░░░░░░░ 15% |
+### 🛠️ Languages & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### 📈 My Learning Journey
+
+| Technology | Status |
+|:---|:---|
+| HTML | 🟢 Learning |
+| Python | 🟡 Exploring |
+| CSS | ⚪ Upcoming |
+| JavaScript | ⚪ Upcoming |
+
+### 🎯 My Goals
+
+- [ ] Master HTML fundamentals
+- [ ] Learn CSS and create beautiful websites
+- [ ] Learn JavaScript
+- [ ] Build my first complete website
+- [ ] Create interesting coding projects
+- [ ] Become a professional developer
+
+### 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vihan-ak2194)
 
 ---
 
-## 🏗️ Projects in Progress
+### 💭 Developer's Mindset
 
-- 🐍 Python Calculator
-- 🎮 Number Guessing Game
-- 📋 To-Do App
-- 🌦️ Weather App
-- 🤖 Python Automation Scripts
-- 🌐 Personal Portfolio Website
+*"Every expert was once a beginner. Keep learning, keep building, and never stop coding."*
 
----
+<p align="center">
+  <b>⚡ Code • Learn • Build • Repeat ⚡</b>
+</p>
 
-## 🎯 2026 Roadmap
-
-- ✅ Master Python Fundamentals
-- 🚀 Build 20+ Real Projects
-- 🌍 Contribute to Open Source
-- 📚 Learn Data Structures & Algorithms
-- 🤖 Explore AI & Machine Learning
-- 💼 Build a Professional Developer Portfolio
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
